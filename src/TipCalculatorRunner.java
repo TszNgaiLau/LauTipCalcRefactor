@@ -21,7 +21,6 @@ public class TipCalculatorRunner {
                 calc.addMeal(cost);
             }
         }
-
         System.out.println("---------------------------------------------------");
         System.out.println("Total bill before tip: " + calc.getTotalBillBeforeTip());
         System.out.println("Total percentage: " + (int) calc.getTipPercentage());

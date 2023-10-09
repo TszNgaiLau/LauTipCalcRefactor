@@ -49,5 +49,4 @@ public class TipCalculator {
         perPersonTotal = Math.round(perPersonTotal * 100.0) / 100.0;
         return  perPersonTotal;
     }
-
 }
