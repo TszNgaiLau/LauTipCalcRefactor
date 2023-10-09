@@ -30,9 +30,5 @@ public class TipCalculatorRunner {
         System.out.println("Per person cost before tip: " + calc.perPersonCostBeforeTip());
         System.out.println("Tip per person: " + calc.perPersonTipAmount());
         System.out.println("Total cost per person: " + calc.perPersonTotalCost());
-        System.out.println("---------------------------------------------------");
-
-
-
     }
 }
